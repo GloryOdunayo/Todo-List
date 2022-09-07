@@ -58,7 +58,7 @@ const Todo = ({myInput,setMyInput,myTodo,setMyTodo,myDate,myTime}) => {
 
 
 			<div align="center">
-				<button className="btn btn-success my-1 w-75" onClick={addTodo}>
+				<button className="btn btn-secondary my-1 w-75" onClick={addTodo}>
 					Add
 				</button>
 			</div>
